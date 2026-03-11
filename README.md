@@ -31,9 +31,14 @@ Teniendo en cuenta el material de clase, responda las siguientes preguntas:
 
 5. ¿Qué críticas se hacen a los modelos tradicionales de desarrollo?
 
-   R:
+   R: Las críticas que reciben estos modelos son:
+        - Hoy en día rara vez los proyectos son tan lineales.
+        - En estos, hay muy poca interacción con el cliente.
+        - Los errores u omisiones que se cometen en una etapa previa, se arrastran facilmente a etapas posteriores.
+        - Los requerimentos deben obtenerse al inicio del proyecto y no pueden ser cambiados con posterioridad.
+        - Son dificiles de aplicar a proyectos grandes o complejos.
 
-6. ¿Por qué en la práctica muchas organizaciones combinan metodologías ágiles y modelos dirigidos por un plan?
+7. ¿Por qué en la práctica muchas organizaciones combinan metodologías ágiles y modelos dirigidos por un plan?
 
    R: 
 
