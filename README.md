@@ -16,11 +16,11 @@ Teniendo en cuenta el material de clase, responda las siguientes preguntas:
 
 1. ¿Por qué el desarrollo de software no puede realizarse simplemente comenzando a programar?
 
-   R: Porque previamente se debe entrevistar al cliente que desea el software para capturar todos los requisitos que requiere el software y con eso poder comenzar a diseñarlo y programarlo 
+   R: Porque previamente se debe cumplir una serie de pasos previa en un orden especifico y cumplir ciertas pautas para asegurar el exito del proyecto y la calidad del software que entreguemos
 
 2. ¿Qué significa que un desarrollo sea dirigido por un plan?
 
-   R:
+   R: Significa que 
 
 3. ¿Cuáles son las ventajas de utilizar un plan de desarrollo?
 
