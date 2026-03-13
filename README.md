@@ -55,44 +55,62 @@ Teniendo en cuenta el material de clase, responda las siguientes preguntas:
 |                               | Se realiza un diseño del sistema informatico que abordara los problemas identificados teniendo en cuenta los       |
 |            Diseño             | requerimentos obtenidos en la etapa anterior y las restricciones establecidas. Con este proceso se realiza una     |
 |                               | documentación detallada y técnica que le permita a los programadores construir el sistema de manera efectiva.      |
-| Codificación                  |             |
-| Prueba                        |             |
-| Puesta en marcha / Despliegue |             |
-
+|-------------------------------|--------------------------------------------------------------------------------------------------------------------|
+|         Codificación          | Los programadores comienzan a codificar el sistema siguiendo las especificaciones del diseño, donde construyen el  |
+|                               | codigo del software usando un lenguaje de programación determinado.                                                |
+|-------------------------------|--------------------------------------------------------------------------------------------------------------------|
+|            Prueba             | Esta etapa se encarga de identificar los posibles errores del sistema antes de lanzarlo, con el objetivo de        |
+|                               | reportarlos y corregirlos.                                                                                         |
+|-------------------------------|--------------------------------------------------------------------------------------------------------------------|
+| Puesta en marcha / Despliegue | En esta etapa ya se realiza la instalación del sistema en las computadoras del cliente y se les da capacitación a  |
+|                               | los usuarios para que puedan utilizar eficientemente el nuevo software.                                            |
+|-------------------------------|--------------------------------------------------------------------------------------------------------------------|
 
 * Luego responda:
   * ¿En qué etapa se obtienen los requerimientos del sistema?
     
-    R:
+    R: Los requerimientos del sistema los capturamos en la etapa de Análisis, es decir en la primer etapa.
+    
   * ¿En qué etapa se construye el programa?
 
-    R:
+    R: El programa se construye durante la etapa de Codificación, la tercer etapa.
+    
   * ¿Cuál es el objetivo principal de las pruebas?
     
-    R:
+    R: El objetivo de las pruebas es poder guiar de una manera mas eficiente todo el proyecto para que sea exitoso.
+  
 ### Actividad 3
-Ordene las siguientes etapas según corresponda  Diseño
--al modelo lineal secuencial:
+Ordene las siguientes etapas según corresponda al modelo lineal secuencial:
 - Codificación
 - Prueba
 - Diseño
 - Despliegue
 - Ingeniería de requerimientos
 ---
-R:
+R: 1 - Ingeniería de requerimientos
+   2 - Diseño
+   3 - Codificación
+   4 - Prueba
+   5 - Despliegue
 
 - Luego responder:
   * ¿Qué problema puede surgir si hay un error en una etapa inicial?
     
-    R:
+    R: Que este error se arraste con facilidad a las etapas siguientes, requiriendo hacer toda una reforma completa en el plan de desarrollo luego.
+    
   * ¿Por qué este modelo puede ser problemático cuando los requerimientos cambian?
 
-    R:
+    R: Porque no esta planeado para tener que cambiar estos mismos, al hacerlo, significaria un aumento en los costos y tiempo del desarrollo.
+    
 ### Actividad 4
 Complete la siguiente tabla.
-| Modelo      | Característica principal | Cuándo conviene usarlo |
-| ----------- | ------------------------ | ---------------------- |
-| Cascada     |                          |                        |
+| Modelo      |                         Característica principal                         |                        Cuándo conviene usarlo                         |
+| ----------- |--------------------------------------------------------------------------| ----------------------------------------------------------------------|
+| Cascada     | Es un modelo muy similar al clasico el cual tambien cuenta con 5 etapas. | Al igual que el modelo clasico, conviene usarlo para sistemas simples |
+|             | Su caracteristica principal es que a diferencia del modelo clasico; este | y pequeños, ya que es el modelo menos costoso y el más rapido.        |
+|             | aplica una actitud proactiva para identificar todos los problemas y      |                                                                       |
+|             | obtener los requerimentos de manera exhaustiva y precisa.                |                                                                       |
+|-------------|--------------------------------------------------------------------------|-----------------------------------------------------------------------|
 | Incremental |                          |                        |
 | Prototipos  |                          |                        |
 | Espiral     |                          |                        |
