@@ -45,10 +45,16 @@ Teniendo en cuenta el material de clase, responda las siguientes preguntas:
 
 ### Actividad 2
 
-| Etapa                         | Descripción |
-| ----------------------------- | ----------- |
-| Análisis                      |             |
-| Diseño                        |             |
+| Etapa                         |                                                   Descripción                                                      |
+| ----------------------------- | -------------------------------------------------------------------------------------------------------------------|
+|                               | Es un relevamiento que realizan los analistas de la organización para identificar sus necesidades y los problemas  |
+|           Análisis            | que deben abordarse con un sistema informatico. El resultado de este proceso es la elaboración de un documento que |
+|                               | siguiendo ciertas reglas y convenciones especificas, capture todos los requerimentos de los usuarios. Tambien con  |
+|                               | este proceso, se deben identificar las restricciones y limitaciones que puedan haber.                              |
+|-------------------------------|--------------------------------------------------------------------------------------------------------------------|
+|                               | Se realiza un diseño del sistema informatico que abordara los problemas identificados teniendo en cuenta los       |
+|            Diseño             | requerimentos obtenidos en la etapa anterior y las restricciones establecidas. Con este proceso se realiza una     |
+|                               | documentación detallada y técnica que le permita a los programadores construir el sistema de manera efectiva.      |
 | Codificación                  |             |
 | Prueba                        |             |
 | Puesta en marcha / Despliegue |             |
