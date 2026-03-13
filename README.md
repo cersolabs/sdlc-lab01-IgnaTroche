@@ -45,8 +45,8 @@ Teniendo en cuenta el material de clase, responda las siguientes preguntas:
 
 ### Actividad 2
 
-| Etapa                         |                                                   Descripción                                                      |
-| ----------------------------- | -------------------------------------------------------------------------------------------------------------------|
+|            Etapa              |                                                   Descripción                                                      |
+|-------------------------------|--------------------------------------------------------------------------------------------------------------------|
 |                               | Es un relevamiento que realizan los analistas de la organización para identificar sus necesidades y los problemas  |
 |           Análisis            | que deben abordarse con un sistema informatico. El resultado de este proceso es la elaboración de un documento que |
 |                               | siguiendo ciertas reglas y convenciones especificas, capture todos los requerimentos de los usuarios. Tambien con  |
@@ -111,7 +111,12 @@ Complete la siguiente tabla.
 |             | aplica una actitud proactiva para identificar todos los problemas y      |                                                                       |
 |             | obtener los requerimentos de manera exhaustiva y precisa.                |                                                                       |
 |-------------|--------------------------------------------------------------------------|-----------------------------------------------------------------------|
-| Incremental |                          |                        |
+| Incremental | Este modelo tambien es uno secuencial pero a diferencia de lso otros, en | Conviene usarlo cuando, ya sea por razones de tamaño, tiempo u        |
+|             | este no hay una planificación exaustiva previa, sino que se van creando  | operativas, sea mas practico entregar el sistema en partes            |
+|             | versiones del sistema y se van incorporando más funciones según los      |                                                                       |
+|             | requerimentos que van apareciendo a medida que avanzan y se priorizan    |                                                                       |
+|             | para su desarrollo.                                                      |                                                                       |
+|-------------|--------------------------------------------------------------------------|-----------------------------------------------------------------------|
 | Prototipos  |                          |                        |
 | Espiral     |                          |                        |
 | RAD         |                          |                        |
@@ -145,7 +150,7 @@ Una empresa quiere desarrollar un sistema de ventas para un pequeño comercio.
 Indique si las siguientes afirmaciones son Verdaderas (V) o Falsas (F). ***marcar con x la verdaderas, dejar en blanco las falsas***
 
 1. [ ] El modelo en cascada permite cambios constantes en los requerimientos.
-2. [ ] El modelo incremental entrega el sistema en varias versiones.
+2. [x] El modelo incremental entrega el sistema en varias versiones.
 3. [ ] Un prototipo se utiliza para comprender mejor los requerimientos.
 4. [ ] El modelo RAD busca reducir los tiempos de desarrollo.
 5. [ ] El modelo en espiral incorpora el análisis de riesgos.
