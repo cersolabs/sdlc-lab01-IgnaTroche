@@ -40,7 +40,7 @@ Teniendo en cuenta el material de clase, responda las siguientes preguntas:
 
 7. ¿Por qué en la práctica muchas organizaciones combinan metodologías ágiles y modelos dirigidos por un plan?
 
-   R: 
+   R: Las organizaciones combinan ambos enfoques porque así logran planificación y control del proyecto, pero también flexibilidad para adaptarse a cambios y mejorar el            software durante el desarrollo.
 
 
 ### Actividad 2
@@ -122,11 +122,18 @@ Complete la siguiente tabla.
 |             | cada etapa un análisis de riesgo a partir del cual el modelo puede ser   |                                                                       |
 |             | modificado, restringido, puesto en pausa o, inclusive, abortado.         |                                                                       |
 |-------------|--------------------------------------------------------------------------|-----------------------------------------------------------------------|
-| RAD         |                          |                        |
+| RAD         | Permite desarrollar aplicaciones muy rápidamente usando herramientas     | Cuando se necesite desarrollar un sistema complejo en poco tiempo y   |
+|             | automáticas, componentes reutilizables y equipos trabajando en paralelo. | se pueda dividir el desarrollo en equipos que trabajen en paralelo.   |
+|-------------|--------------------------------------------------------------------------|-----------------------------------------------------------------------|
 
 - Responder:
   - ¿Qué modelo es más adecuado cuando existen muchos riesgos en el proyecto?
+    R: El modelo más adecuado es el espiral, el cual integra un análisis de riesgo en todas sus etapas para asegurar que durante el desarrollo no haya problemas y
+       no se arrastren errores.
+    
   - ¿Qué modelo ayuda a comprender mejor los requerimientos del usuario?
+    El modelo mas efectivo en este caso seria el de prototipos, ya que se van creando versiones minimalistas y funcionales del sistema para poder aclarar y comprender
+    de una manera más precisa los requerimentos del usuario.
     
 ### Actividad 5 – Caso práctico
 Una empresa quiere desarrollar un sistema de ventas para un pequeño comercio.
@@ -153,7 +160,7 @@ Una empresa quiere desarrollar un sistema de ventas para un pequeño comercio.
 Indique si las siguientes afirmaciones son Verdaderas (V) o Falsas (F). ***marcar con x la verdaderas, dejar en blanco las falsas***
 
 1. [ ] El modelo en cascada permite cambios constantes en los requerimientos.
-2. [x] El modelo incremental entrega el sistema en varias versiones.
-3. [ ] Un prototipo se utiliza para comprender mejor los requerimientos.
-4. [ ] El modelo RAD busca reducir los tiempos de desarrollo.
-5. [ ] El modelo en espiral incorpora el análisis de riesgos.
+2. [X] El modelo incremental entrega el sistema en varias versiones.
+3. [X] Un prototipo se utiliza para comprender mejor los requerimientos.
+4. [X] El modelo RAD busca reducir los tiempos de desarrollo.
+5. [X] El modelo en espiral incorpora el análisis de riesgos.
