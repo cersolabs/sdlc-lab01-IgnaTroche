@@ -106,19 +106,22 @@ R: 1 - Ingeniería de requerimientos
 Complete la siguiente tabla.
 | Modelo      |                         Característica principal                         |                        Cuándo conviene usarlo                         |
 | ----------- |--------------------------------------------------------------------------| ----------------------------------------------------------------------|
-| Cascada     | Es un modelo muy similar al clasico el cual tambien cuenta con 5 etapas. | Al igual que el modelo clasico, conviene usarlo para sistemas simples |
-|             | Su caracteristica principal es que a diferencia del modelo clasico; este | y pequeños, ya que es el modelo menos costoso y el más rapido.        |
-|             | aplica una actitud proactiva para identificar todos los problemas y      |                                                                       |
-|             | obtener los requerimentos de manera exhaustiva y precisa.                |                                                                       |
+| Cascada     | Es un modelo el cual cuenta con 5 etapas de desarrollo, muy similar al   | Conviene usarlo para sistemas simples y pequeños, los cuales tengan   |
+|             | modelo clasico. Las etapas se realizan una despues de la otra, no se     | bien definidos sus requisitos desde el inicio y no se esperen         |
+|             | pasa a la siguiente hasta terminar la anterior.                          | cambios.                                                              |
 |-------------|--------------------------------------------------------------------------|-----------------------------------------------------------------------|
-| Incremental | Este modelo tambien es uno secuencial pero a diferencia de lso otros, en | Conviene usarlo cuando, ya sea por razones de tamaño, tiempo u        |
-|             | este no hay una planificación exaustiva previa, sino que se van creando  | operativas, sea mas practico entregar el sistema en partes            |
-|             | versiones del sistema y se van incorporando más funciones según los      |                                                                       |
-|             | requerimentos que van apareciendo a medida que avanzan y se priorizan    |                                                                       |
-|             | para su desarrollo.                                                      |                                                                       |
+| Incremental | Es un modelo secuencial en el cual se desarrolla y se entrega el sistema | Conviene usarlo cuando el cliente necesite el sistema con urgencia y  |
+|             | en varias versiones cada una con más funcionalidades que la anterior     | se disponga de poco tiempo para desarrollarlo por completo.           |
+|             | según se requiera en base a los requerimentos que surjan en el camino.   |                                                                       |
 |-------------|--------------------------------------------------------------------------|-----------------------------------------------------------------------|
-| Prototipos  |                          |                        |
-| Espiral     |                          |                        |
+| Prototipos  | Es un modelo en el cual se crea un prototipo del sistema con el fin de   | Cuando en el proyecto solicitado se tengan dificultades para aclarar  |
+|             | aclarar requerimentos con el cliente para luego proceder a desarrollar   | los requerimentos o que el cliente tenga dudas de como se vera y      |
+|             | software.                                                                | necesite obtener una vista previa del sistema.                        |
+|-------------|--------------------------------------------------------------------------|-----------------------------------------------------------------------|
+| Espiral     | Combina el estilo de desarrollo del modelo incremental pero agregando a  | Cuando el proyecto es grande,complejo o tiene muchos riesgos.         |
+|             | cada etapa un análisis de riesgo a partir del cual el modelo puede ser   |                                                                       |
+|             | modificado, restringido, puesto en pausa o, inclusive, abortado.         |                                                                       |
+|-------------|--------------------------------------------------------------------------|-----------------------------------------------------------------------|
 | RAD         |                          |                        |
 
 - Responder:
