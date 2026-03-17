@@ -63,8 +63,7 @@ Teniendo en cuenta el material de clase, responda las siguientes preguntas:
 |                               | reportarlos y corregirlos.                                                                                         |
 |-------------------------------|--------------------------------------------------------------------------------------------------------------------|
 | Puesta en marcha / Despliegue | En esta etapa ya se realiza la instalación del sistema en las computadoras del cliente y se les da capacitación a  |
-|                               | los usuarios para que puedan utilizar eficientemente el nuevo software.                                            |
-|-------------------------------|--------------------------------------------------------------------------------------------------------------------|
+|                               | los usuarios para que puedan utilizar eficientemente el nuevo software.                                            
 
 * Luego responda:
   * ¿En qué etapa se obtienen los requerimientos del sistema?
