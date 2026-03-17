@@ -160,7 +160,7 @@ Una empresa quiere desarrollar un sistema de ventas para un pequeño comercio.
   Una vez capturemos todos los requerimientos del sistema, empezariamos con la etapa de diseño, en la qué vamos realizar el diseño del sistema, el cual servirá de guía para la próxima etapa.
   La tercer etapa sería la de codificación, en la cual se empezara a programar el sistema, usando de guía el diseño hecho en la anterior etapa.
   Una vez terminada la codificación, se realiza la etapa de prueba, para buscar posibles errores en el sistema y así poder arreglarlos.
-  Por ultimo, se realiza la etapa de lanzamiento, en la cual instalamos el sistema en todas los equipos del cliente y les damos 
+  Por ultimo, se realiza la etapa de lanzamiento, en la cual instalamos el sistema en todas los equipos del cliente y les damos capacitación a los empleados para que puedan usar eficientemente el nuevo sistema.
 
 ### Actividad 7 – Verdadero o Falso
 Indique si las siguientes afirmaciones son Verdaderas (V) o Falsas (F). ***marcar con x la verdaderas, dejar en blanco las falsas***
