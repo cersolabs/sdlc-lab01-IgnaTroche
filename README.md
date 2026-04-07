@@ -76,7 +76,7 @@ Teniendo en cuenta el material de clase, responda las siguientes preguntas:
     
   * ¿Cuál es el objetivo principal de las pruebas?
     
-    R: El objetivo de las pruebas es poder guiar de una manera mas eficiente todo el proyecto para que sea exitoso.
+    R: El objetivo principal de las pruebas es detectar errores y fallas en el sistema antes de su puesta en funcionamiento.
   
 ### Actividad 3
 Ordene las siguientes etapas según corresponda al modelo lineal secuencial:
@@ -120,6 +120,8 @@ Complete la siguiente tabla.
 | Espiral     | Combina el estilo de desarrollo del modelo incremental pero agregando a  | Cuando el proyecto es grande,complejo o tiene muchos riesgos.         |
 |             | cada etapa un análisis de riesgo a partir del cual el modelo puede ser   |                                                                       |
 |             | modificado, restringido, puesto en pausa o, inclusive, abortado.         |                                                                       |
+|             | No asegura que no haya problemas, sino que permite analizarlos y decidir |                                                                       |
+|             | si continuar o no.                                                       |                                                                       |
 |-------------|--------------------------------------------------------------------------|-----------------------------------------------------------------------|
 | RAD         | Permite desarrollar aplicaciones muy rápidamente usando herramientas     | Cuando se necesite desarrollar un sistema complejo en poco tiempo y   |
 |             | automáticas, componentes reutilizables y equipos trabajando en paralelo. | se pueda dividir el desarrollo en equipos que trabajen en paralelo.   |
@@ -151,7 +153,7 @@ Una empresa quiere desarrollar un sistema de ventas para un pequeño comercio.
   
 - Justifique su respuesta.
 
-  R: Recomiendo el modelo de cascada ya que es el mas optimo para proyectos pequeños como el propuesto, ya que es el menos costoso, el de desarrollo más rapido y el más practico para capturar las necesidades del cliente.
+  R: Recomiendo el modelo de cascada ya que es el mas optimo para proyectos pequeños como el propuesto, ya que es el menos costoso y el más practico para capturar las necesidades del cliente.
   
 - ¿Qué etapas principales tendría el desarrollo?
 
